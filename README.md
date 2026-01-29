@@ -12,26 +12,28 @@ The analysis begins with dimension exploration,
 identifying unique cities, product categories,
 customer demographics, and purchase date ranges.
 
-## This helps understand how the data is structured and how customers and products are segmented.
+ This helps understand how the data is structured 
+and how customers and products are segmented.
 
  Next,
 measure exploration is conducted to calculate key business metrics such as total sales,
 total orders, number of customers, number of products, payment methods, and rating ranges.
 
-## A consolidated metrics report is also generated to provide a quick business snapshot.
+A consolidated metrics report is also generated to provide a quick business snapshot.
 
-## The project then analyzes magnitude and comparisons, 
+ The project then analyzes magnitude and comparisons, 
 evaluating sales, revenue, and customer distribution across cities, genders, categories,
 and individual customers to identify high-performing segments.
 
-# Using ranking techniques and CTEs, the analysis highlights top-revenue products, lowest-rated products, and high-value customers.
-# Finally, time-series and trend analysis is applied to examine monthly and yearly sales trends,
+ Using ranking techniques and CTEs, the analysis highlights top-revenue products,
+lowest-rated products, and high-value customers.
+ Finally, time-series and trend analysis is applied to examine monthly and yearly sales trends,
 calculate running totals and moving averages,
 and compare yearly product performance against historical averages using SQL window functions.
 
-## Skills Demonstrated
+# Skills Demonstrated
 
-# Skills Used
+## Skills Used
 
 SQL (MySQL)
 
