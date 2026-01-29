@@ -1,4 +1,4 @@
-## Exploratory Data Analysis (EDA):
+# Exploratory Data Analysis (EDA):
 
 # Project Overview
 
@@ -12,13 +12,13 @@ The analysis begins with dimension exploration,
 identifying unique cities, product categories,
 customer demographics, and purchase date ranges.
 
-# This helps understand how the data is structured and how customers and products are segmented.
+## This helps understand how the data is structured and how customers and products are segmented.
 
-# Next,
+ Next,
 measure exploration is conducted to calculate key business metrics such as total sales,
 total orders, number of customers, number of products, payment methods, and rating ranges.
 
-# A consolidated metrics report is also generated to provide a quick business snapshot.
+## A consolidated metrics report is also generated to provide a quick business snapshot.
 
 ## The project then analyzes magnitude and comparisons, 
 evaluating sales, revenue, and customer distribution across cities, genders, categories,
