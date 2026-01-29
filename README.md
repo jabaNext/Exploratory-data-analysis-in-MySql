@@ -75,4 +75,4 @@ Ranking & Time-Series Analysis
 
 Business Metrics & Performance Analysis
 
-<a href="https://jabanext.github.io/Exploratory-data-analysis-in-MySql/">Preview</a>
+<a href="(https://github.com/jabaNext/Exploratory-data-analysis-in-MySql/blob/main/)">Preview</a>
