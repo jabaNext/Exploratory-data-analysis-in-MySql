@@ -3,7 +3,7 @@
 # Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA)
-on Walmart sales data using SQL.
+on Walmart sales data using MySQL.
 The objective is to extract meaningful insights related to customer behavior,
 product performance,
 and overall sales trends to support data-driven decision-making.
