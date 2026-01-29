@@ -2,9 +2,11 @@
 
 # Project Overview
 
-This project focuses on performing Exploratory Data Analysis (EDA) on Walmart sales data using SQL.
+This project focuses on performing Exploratory Data Analysis (EDA)
+on Walmart sales data using SQL.
 The objective is to extract meaningful insights related to customer behavior,
-product performance, and overall sales trends to support data-driven decision-making.
+product performance,
+and overall sales trends to support data-driven decision-making.
 
 ## Analysis Approach
 
@@ -17,7 +19,8 @@ and how customers and products are segmented.
 
  Next,
 measure exploration is conducted to calculate key business metrics such as total sales,
-total orders, number of customers, number of products, payment methods, and rating ranges.
+total orders, number of customers,
+number of products, payment methods, and rating ranges.
 
 A consolidated metrics report is also generated to provide a quick business snapshot.
 
@@ -30,8 +33,6 @@ lowest-rated products, and high-value customers.
  Finally, time-series and trend analysis is applied to examine monthly and yearly sales trends,
 calculate running totals and moving averages,
 and compare yearly product performance against historical averages using SQL window functions.
-
-# Skills Demonstrated
 
 ## Skills Used
 
