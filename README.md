@@ -8,7 +8,20 @@ The objective is to extract meaningful insights related to customer behavior,
 product performance,
 and overall sales trends to support data-driven decision-making.
 
-## Analysis Approach
+## Source: 
+Dataset obtained from Kaggle
+
+## Dataset Source: 
+Kaggle (Walmart Sales Data)
+
+## Data Source: 
+Public Walmart sales dataset from Kaggle
+
+## Origin: 
+Kaggle open-source Walmart sales dataset
+
+
+# Analysis Approach
 
 The analysis begins with dimension exploration,
 identifying unique cities, product categories,
